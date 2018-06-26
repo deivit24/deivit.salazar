@@ -26,6 +26,15 @@ footer p {
   padding-top: 25px;
 }
 
+
+
+#section-1 .row p{
+  text-align: center;
+  color: #333;
+}
+#section-1 .row p:hover {
+  color: black;
+}
 #section-2 p{
   font-size: 15px;
 
